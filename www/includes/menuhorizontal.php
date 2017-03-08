@@ -11,7 +11,7 @@
 					<span>Bilbao</span></a></li>
 
 				<li><a href="http://www.aupabilbao.eu/viajes.php" title="Viajes">
-					<img class="iconpeque" src="http://www.aupabilbao.eu/imagenes/viajes.png" alt="Viajes">
+					<img class="iconpeque" src="http://www.aupabilbao.eu/imagenes/viajes.png" alt="Viajes / Bidaiak">
 					<span>Viajes</span></a></li>
 
 				<li><a href="http://www.aupabilbao.eu/web.php" title="Web">
