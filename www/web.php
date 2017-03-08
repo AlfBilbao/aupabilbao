@@ -1,1 +1,0 @@
-<?php $texto="Web"; include('includes/paginaenconstruccion.php'); ?>

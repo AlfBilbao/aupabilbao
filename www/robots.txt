@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: \Documentacion\
-Sitemap: http://www.aupabilbao.eu/sitemap.xml
-
-
