@@ -1,0 +1,1 @@
+<?php $texto="Viajes"; include('includes/paginaenconstruccion.php'); ?>
